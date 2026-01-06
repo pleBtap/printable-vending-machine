@@ -1,6 +1,5 @@
 # printable-vending-machine
 Ein voll 3D-druckbarer Vendomat für zu Hause – einfach, günstig und komplett open source. Ideal für Snacks, Süßigkeiten oder kleine Gadgets. Mit STL-Dateien, Bauanleitung und optionaler Elektronik.
-# HomeVend-3D (oder dein gewählter Name, z. B. printable-vending-machine)
 
 Ein **komplett 3D-druckbarer Vendomat** für den Heimgebrauch – free and open source!
 
@@ -14,7 +13,7 @@ Dieses Projekt ermöglicht es dir, mit einem normalen FDM-3D-Drucker (z. B. Ende
 - **Kostengünstig**: Gesamtkosten unter 50 € (je nach Elektronik).
 
 ### Was du brauchst
-- 3D-Drucker mit mind. 200x200x200 mm Bauvolumen
+- 3D-Drucker mit mind. 300x300x300 mm Bauvolumen
 - PLA/PETG-Filament (ca. 500-1000 g)
 - Optional: Servo-Motor, Arduino Nano/ESP32, Münzprüfer oder einfacher Knopf
 - Schrauben, Muttern (M3/M4) und ggf. Acrylglas für die Front
